@@ -9,7 +9,7 @@ public class Vetor3 {
 
         System.out.println("\n2º Semestre");
         
-        for (int i = 7; i < meses.length; i++) {
+        for (int i = 6; i < meses.length; i++) {
             System.out.println(meses[i]);
         }
     }
